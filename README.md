@@ -34,6 +34,22 @@
 
 ---
 
+## 📊 GitHub Stats & Animations  
+
+### 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yarlankitharun&theme=tokyonight&hide_border=true)  
+
+### 📈 Contribution Graph (3D Animation)  
+![3D Contribution Graph](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)  
+
+### ⚡ GitHub Stats Card  
+![Tharun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yarlankitharun&show_icons=true&theme=radical&hide_border=true)  
+
+### 🚀 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarlankitharun&layout=compact&theme=radical&hide_border=true)  
+
+---
+
 ## 📫 How to reach me:
 - 📧 Email: **yarlankitharun51@gmail.com**  
 - 📱 Phone: **+91 9392803585**  
