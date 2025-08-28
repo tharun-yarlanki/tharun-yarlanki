@@ -36,8 +36,9 @@
 
 ## 📊 GitHub Stats & Animations  
 
-### 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yarlankitharun&theme=tokyonight&hide_border=true)  
+[### 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yarlankitharun&theme=tokyonight&hide_border=true)  ](https://github-readme-streak-stats.herokuapp.com?user=yarlankitharun&theme=tokyonight&hide_border=true
+)
 
 ### 📈 Contribution Graph (3D Animation)  
 ![3D Contribution Graph](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)  
