@@ -74,7 +74,7 @@
 ) www.linkedin.com/in/tharun-yarlanki
 
  
-- 🐙 [GitHub](https://github.com/yarlankitharun)  
+- 🐙 [GitHub](https://github.com/yarlankitharun)  https://github.com/tharun-yarlanki
 
 ---
 
