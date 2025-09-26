@@ -71,7 +71,8 @@
 - 📧 Email: **tharun.yarlanki.work@gmail.com**  
 - 📱 Phone: **+91 9505140779**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tharun-yarlanki
-) 
+) www.linkedin.com/in/tharun-yarlanki
+
  
 - 🐙 [GitHub](https://github.com/yarlankitharun)  
 
